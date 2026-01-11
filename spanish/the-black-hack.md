@@ -14,7 +14,7 @@ Con elementos prestados del juego ‘original’ y de las modernas ediciones de 
 
 Sin un orden particular - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, Todo el trabajo que los *Grognards* han puesto en el juego, UK OSR Hangouts crew, Todos los que apoyaron el Kickstarter (you're all ace!) además de toda la gente que ha intervenido en el desarrollo del hobby que tanto hemos disfrutado.
 
-Texto en castellano v0.3
+Texto en castellano v0.5 (23/10/2016)
 
 Traducido por Rafael Pardo Macías
 
@@ -47,7 +47,7 @@ Cada nuevo personaje comienza con 3d6 x 10 monedas con las que podrás comprar e
 La armadura proporciona protección al reducir el daño que recibe un personaje. Cada tipo de armadura reducirá en una cantidad diferente este daño según sus características. Los **Puntos de Armadura** se recuperan después de que el personaje descanse. Cuando un jugador o un monstruo ha usado todos los puntos de armadura para absorber daño, se encontrará demasiado cansado o herido como para defenderse de manera efectiva – por lo que recibirá todo el daño hasta que descanse.
 
 |      Tipo       | Puntos |
-|:---------------:|:------:|
+| :-------------: | :----: |
 |    Acolchada    |   2    |
 |      Cuero      |   4    |
 | Cota de mallas  |   6    |
@@ -62,7 +62,7 @@ Los monstruos tienen 1 punto de armadura por cada **DG** por encima de 1. Para c
 Si un personaje emplea una armadura que no figura en su clase, añade su total de **Puntos de armadura (PA)** (independientemente de cuantos haya usado) a cualquier tirada para **Atacar** o **Evitar daño**.
 
 | OBJETO                        | COSTE  | DADO DE USO |               NOTAS                |
-|:------------------------------|:------:|:-----------:|:----------------------------------:|
+| :---------------------------- | :----: | :---------: | :--------------------------------: |
 | Acolchada                     |   50   |      -      |        2 Puntos de armadura        |
 | Cuero                         |  100   |      -      |        4 Puntos de armadura        |
 | Cota de mallas                |  350   |      -      |        6 Puntos de armadura        |
@@ -97,11 +97,11 @@ Si un personaje emplea una armadura que no figura en su clase, añade su total d
 *The Black Hack* ignora las tiradas de salvación y en su lugar hace que los jugadores realicen una prueba de atributo cuando cualquier conjuro, trampa o efecto les alcanzaría – usa lo siguiente como una guía. Acuérdate de consultar los consejos que figuran en el apartado de **Oponentes poderosos**.
 
 |                   FUE                    |                   DES                   |             CON              |
-|:----------------------------------------:|:---------------------------------------:|:----------------------------:|
+| :--------------------------------------: | :-------------------------------------: | :--------------------------: |
 | Daño físico *que no puede* ser esquivado | Daño físico *que* *puede* ser esquivado | Veneno, Enfermedad o Muerte. |
 
 |            INT             |         SAB         |           CAR            |
-|:--------------------------:|:-------------------:|:------------------------:|
+| :------------------------: | :-----------------: | :----------------------: |
 | Resistir Conjuros y Magia. | Engaño e Ilusiones. | Efectos de encantamiento |
 
 ## Turno de los Jugadores
@@ -119,7 +119,7 @@ En lugar de llevar una cuenta precisa, TBH emplea 4 alcances abstractos para med
 Este sistema está diseñado para soportar un estilo de juego narrativo, despreocupándose de contar cuadrados y medir distancias. Para convertir tasas de movimiento existentes o distancias (para conjuros o áreas de efecto) usa el siguiente cuadro como referencia:
 
 |      INMEDIATO      |         CERCANO         |          LEJANO          |
-|:-------------------:|:-----------------------:|:------------------------:|
+| :-----------------: | :---------------------: | :----------------------: |
 | 0 - 5ft (0 – 1,5 m) | 5 - 60ft (1,5 m – 18 m) | 60 - 120ft (18 m – 36 m) |
 
 ## Iniciativa
@@ -141,7 +141,7 @@ Para realizar un **Ataque de cuerpo a cuerpo**, los combatientes deben estar **I
 Los **Monstruos** causan daño en base a sus **DG** – *Consulta la siguiente tabla*, pero si prefieres emplear el daño que figura en un módulo o aventura en concreto, puedes hacerlo sin ningún problema.
 
 | DG del Monstruo |      Daño      |
-|:---------------:|:--------------:|
+| :-------------: | :------------: |
 |        1        |     d4 (2)     |
 |        2        |     d6 (3)     |
 |        3        |    2d4 (4)     |
@@ -168,7 +168,7 @@ Cuando un personaje es reducido a cero **Puntos de Golpe (PG)** están **Fuera d
 ***Si un personaje pierde el combate o sus compañeros son incapaces de recuperar su cuerpo ¡este es eliminado para siempre!***
 
 | *1d6* | *RESULTADO*                                                                                   |
-|:------|:----------------------------------------------------------------------------------------------|
+| :---- | :-------------------------------------------------------------------------------------------- |
 | 1     | **KO** – Sólo quedaste inconsciente                                                           |
 | 2     | **Aturdido** – Tienes Desventaja en todas las pruebas durante la siguiente hora.              |
 | 3     | **Huesos fracturados** - FUE, DES y CON tienen un modificador de -2 durante el siguiente día. |
@@ -221,7 +221,7 @@ El GM debería tirar un d4 cada 15 minutos de tiempo real de juego (porque está
 Algunos monstruos y PnJ tendrán personalidades y objetivos que guiarán al GM al escoger sus acciones y sentimientos hacia los personajes. Los que no las tengan, cómo las criaturas de encuentros aleatorios, realizan una **Tirada de Reacción** en la siguiente tabla:
 
 | Tirada | Reacción                         |
-|:------:|:---------------------------------|
+| :----: | :------------------------------- |
 |   1    | Huye y vuelve a tirar.           |
 |   2    | Evita por completo a los PJ.     |
 |   3    | Comercia con los PJ.             |
@@ -367,35 +367,35 @@ Si un conjuro de un juego del movimiento OSR de la “era original” indica que
 
 Nota: las columnas son niveles de conjuros y las líneas niveles de personaje.
 
-|    | *1* | *2* | *3* | *4* | *5* | *6* | *7* |
-|:---|:----|:----|:----|:----|:----|:----|:----|
-| 1  | -   | -   | -   | -   | -   | -   | -   |
-| 2  | 1   | -   | -   | -   | -   | -   | -   |
-| 3  | 2   | 1   | -   | -   | -   | -   | -   |
-| 4  | 2   | 2   | -   | -   | -   | -   | -   |
-| 5  | 2   | 2   | 1   | -   | -   | -   | -   |
-| 6  | 2   | 2   | 2   | -   | -   | -   | -   |
-| 7  | 2   | 2   | 2   | 1   | -   | -   | -   |
-| 8  | 2   | 2   | 2   | 2   | 1   | -   | -   |
-| 9  | 3   | 3   | 2   | 2   | 2   | 1   | -   |
-| 10 | 3   | 3   | 3   | 2   | 2   | 2   | 1   |
+|      | *1*  | *2*  | *3*  | *4*  | *5*  | *6*  | *7*  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1    | -    | -    | -    | -    | -    | -    | -    |
+| 2    | 1    | -    | -    | -    | -    | -    | -    |
+| 3    | 2    | 1    | -    | -    | -    | -    | -    |
+| 4    | 2    | 2    | -    | -    | -    | -    | -    |
+| 5    | 2    | 2    | 1    | -    | -    | -    | -    |
+| 6    | 2    | 2    | 2    | -    | -    | -    | -    |
+| 7    | 2    | 2    | 2    | 1    | -    | -    | -    |
+| 8    | 2    | 2    | 2    | 2    | 1    | -    | -    |
+| 9    | 3    | 3    | 2    | 2    | 2    | 1    | -    |
+| 10   | 3    | 3    | 3    | 2    | 2    | 2    | 1    |
 
 ## Conjuros diarios del Hechicero
 
 Nota: las columnas son niveles de conjuros y las líneas niveles de personaje.
 
-|    | *1* | *2* | *3* | *4* | *5* | *6* | *7* |
-|:---|:----|:----|:----|:----|:----|:----|:----|
-| 1  | 1   | -   | -   | -   | -   | -   | -   |
-| 2  | 2   | -   | -   | -   | -   | -   | -   |
-| 3  | 3   | 1   | -   | -   | -   | -   | -   |
-| 4  | 3   | 2   | -   | -   | -   | -   | -   |
-| 5  | 4   | 2   | 1   | -   | -   | -   | -   |
-| 6  | 4   | 3   | 2   | -   | -   | -   | -   |
-| 7  | 4   | 3   | 2   | 1   | -   | -   | -   |
-| 8  | 4   | 3   | 3   | 2   | 1   | -   | -   |
-| 9  | 4   | 3   | 3   | 2   | 2   | 1   | -   |
-| 10 | 4   | 3   | 3   | 2   | 2   | 2   | 1   |
+|      | *1*  | *2*  | *3*  | *4*  | *5*  | *6*  | *7*  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1    | 1    | -    | -    | -    | -    | -    | -    |
+| 2    | 2    | -    | -    | -    | -    | -    | -    |
+| 3    | 3    | 1    | -    | -    | -    | -    | -    |
+| 4    | 3    | 2    | -    | -    | -    | -    | -    |
+| 5    | 4    | 2    | 1    | -    | -    | -    | -    |
+| 6    | 4    | 3    | 2    | -    | -    | -    | -    |
+| 7    | 4    | 3    | 2    | 1    | -    | -    | -    |
+| 8    | 4    | 3    | 3    | 2    | 1    | -    | -    |
+| 9    | 4    | 3    | 3    | 2    | 2    | 1    | -    |
+| 10   | 4    | 3    | 3    | 2    | 2    | 2    | 1    |
 
 ## Conjuros divinos
 
@@ -522,13 +522,14 @@ Nota: las columnas son niveles de conjuros y las líneas niveles de personaje.
 * **Detener el tiempo:** El tiempo se detiene completamente en un área Cercana – 1d4+1 Momentos.
 
 
-| Criaturas         | DG | Acciones y Habilidades especiales                                                                                                                                                                                                    |
-|:------------------|:--:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Berserker Humano  | 1  | Desventaja en tiradas de defensa cuando ataca el Berserker.                                                                      | Ciempiés mortal            |   1    | Mordisco (0) y una prueba de CON ‘FdC’ – solo tiene 1-2 pg. |
-| Demonio de melena | 1  | 2 Garras (1d2) + 1 Mordisco (1d4), mitad de daño de armas no mágicas                                                                                                                                                                 |
-| Escarabajo ígneo  | 1  | Sus glándulas luminosas tienen un d8 de Dado de uso.                                                                                                                                                                                 |
-| Goblin            | 1  | Sólo tiene 1d6 pg.                                                                                                                                                                                                                   |
-| Hobgoblin         | 1  | Normalmente tiene un escudo de reserve si el que tiene es destruido.                                                                                                |                                                                |
+| Criaturas                  |   DG   | Acciones y Habilidades especiales                                                                                                                                   |
+| :------------------------- | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Berserker Humano           |   1    | Desventaja en tiradas de defensa cuando ataca el Berserker.                                                                                                         |
+| Ciempiés mortal            |   1    | Mordisco (0) y una prueba de CON ‘FdC’ – solo tiene 1-2 pg.                                                                                                         |
+| Demonio de melena          |   1    | 2 Garras (1d2) + 1 Mordisco (1d4), mitad de daño de armas no mágicas                                                                                                |
+| Escarabajo ígneo           |   1    | Sus glándulas luminosas tienen un d8 de Dado de uso.                                                                                                                |
+| Goblin                     |   1    | Sólo tiene 1d6 pg.                                                                                                                                                  |
+| Hobgoblin                  |   1    | Normalmente tiene un escudo de reserve si el que tiene es destruido.                                                                                                |  |
 | Murciélago vampiro gigante |   1    | 1d6 daño en el siguiente momento después del ataque.                                                                                                                |
 | Acechador de la carroña    |   2    | Mordisco (1) + 6 Tentáculos (0) + prueba CON o quedar Paralizado.                                                                                                   |
 | Ghoul                      |   2    | 2 Garras (1d3) + 1 Mordisco (1d4) + prueba CON o quedar Paralizado.                                                                                                 |
@@ -566,41 +567,79 @@ Nota: las columnas son niveles de conjuros y las líneas niveles de personaje.
 ## Ejemplo de juego
 
 **DM:** Así que estáis en las alcantarillas, hasta la rodilla en mugre, es oscuro y al norte hay un rastrillo, ¿Qué queréis hacer?
+
 **Ladrón:** ¿Está el rastrillo Cercano?
+
 **DM:** Sí.
+
 **Ladrón:** Me muevo hasta él, y con mi acción buscaré trampas.
+
 **Guerrero:** Asumiendo que es seguro, quiero doblar las barras.
+
 **Hechicero:** Y yo quiero lanzar Luz en mi vara.
+
 **DM:** Ok, Ladrón, haz una prueba de Sabiduría con un d20 y sacando menos que tu puntuación de SAB – para buscar en el rastrillo trampas.
+
 **Ladrón:** \*tirada de dado\* ¡Lo consigo!
+
 **DM:** Estás convencido de que no hay nada de que pueda dañarte, Guerrero, ¿Aún quieres doblar las barras? Si es así, ¡haz una prueba por tu Fuerza!
+
 **Guerrero:** \*tirada de dado\* ¡Está tirado!
+
 **DM:** Genial, ahora Hechicero, lanzas Luz en tu vara. ¿Eso es un conjuro de nivel 1, verdad?
+
 **Hechicero:** Si.
+
 **DM:** Ok, bien, haz una prueba por tu Inteligencia y añade uno a tu tirade de 1d20, si fallas pierdes espacio de conjuro de nivel 1 por el resto del día.
+
 **Hechicero:** \*tirada de dado\* Tengo que sacar por debajo, ¿no?
+
 **DM:** Si, es así.
+
 **Hechicero:** Maldición, he fallado.
+
 **DM:** ¡Mala suerte! Más allá de las barras dobladas hay un oscuro túnel que se interna en las profundidades. ¿Qué es lo que queréis hacer?
+
 **Guerrero:** ¿Explorar el túnel?
+
 **Ladrón:** ¡De acuerdo! Iré delante de manera sigilosa.
+
 **Hechicero:** ¡Y yo protegeré la retaguardia!
+
 **DM:** Ok Ladrón, te mueves por la alcantarilla, aún Cercano a tus amigos, haz una prueba de Destreza para ver cuán silencioso eres – recuerda que tienes Ventaja en las pruebas cuando estás acechando, tira dos d20 y elige el resultado que prefieras.
+
 **Ladrón:** \*tirada de dado\* a pesar de tirar dos dados, saco un 17 y un 19. ¿Cuáles son las probabilidades?
+
 **DM:** Ouch. Estás hacienda demasiado ruido, un Ghoul que se escondía en la oscuridad cercana a ti surge y ¡ataca!
+
 **Ladrón:** ¡Maldita sea!
+
 **DM:** ¡Hora de la Iniciativa! Que todo el mundo haga una prueba por su Destreza, pasarla significa que actuáis antes que el Ghoul, fallarla significa que vais después. El Ladrón hace la prueba con Desventaja.
+
 **Guerrero:** Yo voy antes.
+
 **Hechicero:** Yo después.
+
 **DM:** ¿Ladrón?
+
 **Ladrón:** ¿Cuánto tiempo me llevaría hacerme otro personaje? Voy después.
+
 **Guerrero:** Quiero correr por la alcantarilla y destrozar al Ghoul con mi espada ancha.
+
 **DM:** Ok Guerrero, te mueves para estar Inmediato al Ghoul. Prueba por tu Fuerza para ver si lo golpeas, debes añadir +1 a la tirada, ya que el Ghoul es un oponente poderoso.
+
 **Guerrero:** \*tira el dado\* ¡He sacado un 7! \*tira de nuevo\* Así que son 8PG de daño.
+
 **DM:** ¡Gran golpe! Ahora es el turno del Ghoul. Ladrón haz una prueba de Destreza para intentar esquivar las Garras y Mordisco paralizantes del Ghoul. Recuerda el +1.
+
 **Ladrón:** \*tirada de dado\* Ugh! 18.
+
 **DM:** Oh dios. Sientes una dolorosa sensación que va entumeciendo tu cuerpo. Haz una prueba de Constitución, si fallas el Ghoul te paraliza.
+
 **Ladrón:** \*tirada de dado\* ¿Añado el +1 también a esto?
+
 **DM:** Si. Hechicero, ves que el Ladrón caerá rígido al suelo, ¿Qué haces?
+
 **Hechicero:** Empiezo a retroceder lentamente.
+
 **Ladrón:** ¡Te atrapare en tu siguiente vida, bastardo!
